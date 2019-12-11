@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="itrip-eureka-server" />
+        <module name="itrip-commons" />
+        <module name="itrip-consumer-commons" />
+        <module name="itrip-provider-commons" />
+        <module name="itrp-commons" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="itrip-commons" target="1.8" />
+      <module name="itrip-consumer-commons" target="1.8" />
+      <module name="itrip-eureka-server" target="1.8" />
+      <module name="itrip-parent" target="1.8" />
+      <module name="itrip-provider-commons" target="1.8" />
+      <module name="itrp-commons" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="itrip-commons" options="-parameters" />
+      <module name="itrip-consumer-commons" options="-parameters" />
+      <module name="itrip-eureka-server" options="-parameters" />
+      <module name="itrip-provider-commons" options="-parameters" />
+    </option>
+  </component>
+</project>

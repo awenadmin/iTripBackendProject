@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itrip-commons/itrip-commons.iml" filepath="$PROJECT_DIR$/itrip-commons/itrip-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itrip-consumer-commons/itrip-consumer-commons.iml" filepath="$PROJECT_DIR$/itrip-consumer-commons/itrip-consumer-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itrip-eureka-server/itrip-eureka-server.iml" filepath="$PROJECT_DIR$/itrip-eureka-server/itrip-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itrip-parent/itrip-parent.iml" filepath="$PROJECT_DIR$/itrip-parent/itrip-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itrip-provider-commons/itrip-provider-commons.iml" filepath="$PROJECT_DIR$/itrip-provider-commons/itrip-provider-commons.iml" />
+    </modules>
+  </component>
+</project>
