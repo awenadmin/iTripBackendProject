@@ -6,8 +6,9 @@
         <option value="$PROJECT_DIR$/itrip-parent/pom.xml" />
         <option value="$PROJECT_DIR$/itrip-eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/itrip-commons/pom.xml" />
-        <option value="$PROJECT_DIR$/itrip-provider-commons/pom.xml" />
-        <option value="$PROJECT_DIR$/itrip-consumer-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/itrip-auth-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/itrip-biz-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/itrip-diz-consumer/pom.xml" />
       </list>
     </option>
   </component>
