@@ -3,11 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/itrip-auth-consumer/itrip-auth-consumer.iml" filepath="$PROJECT_DIR$/itrip-auth-consumer/itrip-auth-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itrip-biz-consumer/itrip-biz-consumer.iml" filepath="$PROJECT_DIR$/itrip-biz-consumer/itrip-biz-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/itrip-biz-provider/itrip-biz-provider.iml" filepath="$PROJECT_DIR$/itrip-biz-provider/itrip-biz-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/itrip-commons/itrip-commons.iml" filepath="$PROJECT_DIR$/itrip-commons/itrip-commons.iml" />
-      <module fileurl="file://$PROJECT_DIR$/itrip-diz-consumer/itrip-diz-consumer.iml" filepath="$PROJECT_DIR$/itrip-diz-consumer/itrip-diz-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/itrip-eureka-server/itrip-eureka-server.iml" filepath="$PROJECT_DIR$/itrip-eureka-server/itrip-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/itrip-parent/itrip-parent.iml" filepath="$PROJECT_DIR$/itrip-parent/itrip-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itrip-search-consumer/itrip-search-consumer.iml" filepath="$PROJECT_DIR$/itrip-search-consumer/itrip-search-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itrip-search-provider/itrip-search-provider.iml" filepath="$PROJECT_DIR$/itrip-search-provider/itrip-search-provider.iml" />
     </modules>
   </component>
 </project>

@@ -4,9 +4,11 @@
     <file url="file://$PROJECT_DIR$/itrip-auth-consumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/itrip-biz-provider/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/itrip-commons/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/itrip-diz-consumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/itrip-eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/itrip-parent/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/itrip-parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itrip-search-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itrip-search-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itrip-search-provider/src/main/resources" charset="UTF-8" />
   </component>
 </project>

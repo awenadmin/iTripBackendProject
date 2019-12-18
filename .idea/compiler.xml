@@ -6,24 +6,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="itrip-search-consumer" />
         <module name="itrp-commons" />
-        <module name="itrip-auth-consumer" />
-        <module name="itrip-commons" />
         <module name="itrip-biz-provider" />
-        <module name="itrip-diz-consumer" />
+        <module name="itrip-search-provider" />
+        <module name="itrip-auth-consumer" />
         <module name="itrip-eureka-server" />
+        <module name="itrip-commons" />
+        <module name="itrip-biz-consumer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="itrip-auth-consumer" target="1.8" />
       <module name="itrip-auth-provider" target="1.8" />
+      <module name="itrip-biz-consumer" target="1.8" />
       <module name="itrip-biz-provider" target="1.8" />
       <module name="itrip-commons" target="1.8" />
       <module name="itrip-consumer-commons" target="1.8" />
-      <module name="itrip-diz-consumer" target="1.8" />
       <module name="itrip-eureka-server" target="1.8" />
       <module name="itrip-parent" target="1.8" />
       <module name="itrip-provider-commons" target="1.8" />
+      <module name="itrip-search-consumer" target="1.8" />
+      <module name="itrip-search-provider" target="1.8" />
       <module name="itrp-commons" target="1.7" />
     </bytecodeTargetLevel>
   </component>
@@ -31,12 +35,14 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="itrip-auth-consumer" options="-parameters" />
       <module name="itrip-auth-provider" options="-parameters" />
+      <module name="itrip-biz-consumer" options="-parameters" />
       <module name="itrip-biz-provider" options="-parameters" />
       <module name="itrip-commons" options="-parameters" />
       <module name="itrip-consumer-commons" options="-parameters" />
-      <module name="itrip-diz-consumer" options="-parameters" />
       <module name="itrip-eureka-server" options="-parameters" />
       <module name="itrip-provider-commons" options="-parameters" />
+      <module name="itrip-search-consumer" options="-parameters" />
+      <module name="itrip-search-provider" options="-parameters" />
     </option>
   </component>
 </project>
